@@ -30,3 +30,65 @@
 </p>
 
 ---
+
+## 🏗️ Sobre
+
+O **NotaGest** é um sistema completo para **gerenciamento digital de notas fiscais relacionadas à construção e reforma de imóveis**.  
+A aplicação permite que o usuário cadastre imóveis, envie imagens de notas fiscais, categorize despesas, gere relatórios em PDF e exporte os dados em Excel.
+
+> 💡 O projeto surgiu com o objetivo de reduzir o uso de papel e facilitar o processo de comprovação de despesas e **regularização imobiliária**.
+
+---
+
+## ⚙️ Arquitetura do Projeto
+
+O **NotaGest** é composto por três camadas principais:
+
+| Módulo | Descrição | Tecnologias Principais |
+|---------|------------|------------------------|
+| **Frontend** | Interface web onde o usuário interage, faz login, upload e visualiza relatórios. | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend (NotaGest Express)** | API REST responsável por autenticação, CRUD de notas e imóveis. | Express, Node.js, MongoDB, MySQL |
+| **Microserviços** | Serviços auxiliares independentes (upload, notificações, segurança). | Express, Mongoose, Axios, JWT |
+
+
+---
+
+## 💡 Funcionalidades Gerais
+
+### 🖥️ Frontend (NotaGest-TypeScript)
+- Autenticação (login e cadastro)
+- Upload de notas com associação a imóveis
+- Cadastro de imóveis
+- Geração de PDF e exportação em Excel
+- Dashboard com gráficos
+- FAQ e formulário de contato
+
+### ⚙️ Backend (NotaGest-Express)
+- API RESTful
+- Middleware de autenticação JWT
+- Integração com bancos MongoDB e MySQL
+- Criptografia de senhas com **bcryptjs**
+- Gerenciamento de usuários e notas fiscais
+- Suporte a CORS e variáveis de ambiente (.env)
+
+### 🧱 Microserviços
+| Nome | Descrição | Porta | Tecnologias |
+|------|------------|--------|-------------|
+| **AuthService** | Geração e validação de tokens JWT | `:3001` | Express, bcryptjs, dotenv |
+| **UploadService** | Upload e gerenciamento de imagens no Cloudinary | `:3002` | Express, Axios, Cloudinary |
+| **NotificationService** | Envio de e-mails e alertas automáticos | `:3003` | Express, Nodemailer |
+
+---
+
+## 🧩 Tecnologias Utilizadas
+
+| Categoria | Tecnologias |
+|------------|--------------|
+| **Frontend** | Next.js • React • TypeScript • Tailwind CSS • Material Tailwind • Recharts • jsPDF • xlsx |
+| **Backend** | Express • Node.js • MongoDB • MySQL • JWT • bcryptjs • dotenv • CORS |
+| **Microserviços** | Axios • Express • JWT • Mongoose |
+| **Ferramentas** | Nodemon • GitHub • Cloudinary |
+
+---
+
+## 🚀 Instalação e Execução
