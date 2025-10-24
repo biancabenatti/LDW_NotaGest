@@ -1,35 +1,21 @@
-# Projeto NotaGest - Conversão para Next.js
+<p align="center">
+  <img src="./assets/1.png" alt="NotaGest Logo" width="180"/>
+</p>
 
-### 📌 Descrição
-NotaGest é uma aplicação web desenvolvida com **Next.js** focada na organização digital de notas fiscais e comprovantes para auxiliar pessoas em construção civil com gestão documental e impostos.
+<h1 align="center">📄 NotaGest</h1>
 
-### 🚀 Tecnologias Utilizadas
-* Next.js → Framework para aplicações React, proporcionando renderização otimizada e melhor performance.
+<p align="center">
+  Sistema inteligente para armazenamento e gerenciamento de notas fiscais de construção e reforma.
+</p>
 
-* React.js → Biblioteca JavaScript para criação de interfaces interativas e dinâmicas.
+---
 
-* Tailwind CSS → Framework CSS utilitário para estilização personalizada e otimizada.
-
-* TypeScript → Superset do JavaScript com tipagem estática.
-
-### 🚀Componentes e UI
-* React Icons → Biblioteca com ícones populares para React.
-
-* AOS - Animate on Scroll → Biblioteca para animações suaves ao rolar.
-
-* React Slick → Carrossel/slider responsivo para React.
-
-* Slick Carousel  → Biblioteca base do React Slick.
-
-### 🛠 Como Executar o Projeto
-1- Instale as dependências:
-
-```npm install```
-
-2- Inicie o servidor de desenvolvimento:
-
-```npm run dev```
-
-#### A aplicação estará disponível em http://localhost:3000/.
-
-```
+<p align="center">
+  <a href="#sobre">Sobre</a> •
+  <a href="#funcionalidades">Funcionalidades</a> •
+  <a href="#demonstração">Demonstração</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#como-executar">Como executar</a> •
+  <a href="#estrutura-do-projeto">Estrutura</a> •
+  <a href="#autor">Autor</a>
+</p>
