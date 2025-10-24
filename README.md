@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Next.js-15.2.4-black?style=flat&logo=next.js" alt="Next.js Badge"/>
   <img src="https://img.shields.io/badge/Express-5.1.0-green?style=flat&logo=express" alt="Express Badge"/>
   <img src="https://img.shields.io/badge/MongoDB-8.18.1-4DB33D?style=flat&logo=mongodb" alt="MongoDB Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-3.14.1-00758F?style=flat&logo=mysql" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/TypeScript-5.8.3-blue?style=flat&logo=typescript" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License Badge"/>
 </p>
@@ -47,7 +46,7 @@ O **NotaGest** é composto por três camadas principais:
 | Módulo | Descrição | Tecnologias Principais |
 |---------|------------|------------------------|
 | **Frontend** | Interface web onde o usuário interage, faz login, upload e visualiza relatórios. | Next.js, React, TypeScript, Tailwind CSS |
-| **Backend (NotaGest Express)** | API REST responsável por autenticação, CRUD de notas e imóveis. | Express, Node.js, MongoDB, MySQL |
+| **Backend (NotaGest Express)** | API REST responsável por autenticação, CRUD de notas e imóveis. | Express, Node.js, MongoDB |
 | **Microserviços** | Serviços auxiliares independentes (upload, notificações, segurança). | Express, Mongoose, Axios, JWT |
 
 
@@ -66,7 +65,7 @@ O **NotaGest** é composto por três camadas principais:
 ### ⚙️ Backend (NotaGest-Express)
 - API RESTful
 - Middleware de autenticação JWT
-- Integração com bancos MongoDB e MySQL
+- Integração com bancos MongoDB 
 - Criptografia de senhas com **bcryptjs**
 - Gerenciamento de usuários e notas fiscais
 - Suporte a CORS e variáveis de ambiente (.env)
