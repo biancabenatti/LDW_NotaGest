@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnaLauraMS/NotaGest/main/NotaGestTypeScript/assets/1.png" alt="NotaGest Logo" width="180"/>
-</p>
+
+  [1.png](https://postimg.cc/Mc3tRzBM)
+
 
 <h1 align="center">NotaGest — Sistema de Gerenciamento de Notas Fiscais</h1>
 
