@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Express-5.1.0-4CAF50?style=flat&logo=express" alt="Express Badge"/>
   <img src="https://img.shields.io/badge/MongoDB-8.18.1-4DB33D?style=flat&logo=mongodb" alt="MongoDB Badge"/>
   <img src="https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=flat&logo=typescript" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/license-MIT-4CAF50" alt="License Badge"/>
 </p>
 
 ---
