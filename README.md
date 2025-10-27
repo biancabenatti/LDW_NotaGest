@@ -1,4 +1,4 @@
-<table align="center" style="border: 0;">
+<table align="center" border="0" style="border:0;">
   <tr>
     <td>
       <img src="https://i.postimg.cc/NGWntpMc/Logo-Horizontal.png" alt="Logo do NotaGest" width="250"/>
