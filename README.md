@@ -1,9 +1,6 @@
-
 <p align="center">
-  <img src="https://postimg.cc/BtBpc5HY" alt="Logo do NotaGest" width="400"/>
+  <img src="https://i.postimg.cc/BtBpc5HY/logo-notagest.png" alt="Logo do NotaGest" width="600"/>
 </p>
-
-
 
 <h1 align="center">NotaGest — Sistema de Gerenciamento de Notas Fiscais</h1>
 
