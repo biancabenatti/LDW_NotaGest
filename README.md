@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./NotaGest-TypeScript/assets/logo-notagest.png" alt="NotaGest Logo" width="180"/>
+  <img src="NotaGest-TypeScript/assets/logo-notagest.png" alt="NotaGest Logo" width="180"/>
 </p>
 
-<h1 align="center">📄 NotaGest — Sistema de Gerenciamento de Notas Fiscais de Construção</h1>
+<h1 align="center">NotaGest — Sistema de Gerenciamento de Notas Fiscais</h1>
 
 <p align="center">
   Plataforma completa para o armazenamento, controle e exportação de notas fiscais de construção e reforma.
@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="#sobre">🏗️ Sobre</a> •
-  <a href="#arquitetura">⚙️ Arquitetura</a> •
+  <a href="#arquitetura-do-projeto">⚙️ Arquitetura</a> •
   <a href="#funcionalidades">💡 Funcionalidades</a> •
-  <a href="#tecnologias">🧩 Tecnologias</a> •
+  <a href="#technologias-utilizadas">🧩 Tecnologias</a> •
   <a href="#acesso-ao-projeto">🌐 Acesso</a> •
   <a href="#autores">👥 Autores</a>
 </p>
@@ -26,7 +26,6 @@
 </p>
 
 ---
-
 ## 🏗️ Sobre
 
 O **NotaGest** é um sistema voltado ao **gerenciamento digital de notas fiscais relacionadas à construção e reforma de imóveis**.  
