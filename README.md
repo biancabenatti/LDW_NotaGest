@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-15.2.4-black?style=flat&logo=next.js" alt="Next.js Badge"/>
-  <img src="https://img.shields.io/badge/Express-5.1.0-green?style=flat&logo=express" alt="Express Badge"/>
+  <img src="https://img.shields.io/badge/Next.js-15.2.4-4CAF50?style=flat&logo=next.js" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Express-5.1.0-4CAF50?style=flat&logo=express" alt="Express Badge"/>
   <img src="https://img.shields.io/badge/MongoDB-8.18.1-4DB33D?style=flat&logo=mongodb" alt="MongoDB Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-5.8.3-blue?style=flat&logo=typescript" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=flat&logo=typescript" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/license-MIT-4CAF50" alt="License Badge"/>
 </p>
 
 ---
