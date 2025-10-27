@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://i.postimg.cc/NGWntpMc/Logo-Horizontal.png" alt="Logo do NotaGest" width="500"/>
-</p>
+<table align="center" style="border: 0;">
+  <tr>
+    <td>
+      <img src="https://i.postimg.cc/NGWntpMc/Logo-Horizontal.png" alt="Logo do NotaGest" width="250"/>
+    </td>
+    <td>
+      <h1>Sistema de Gerenciamento de Notas Fiscais</h1>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   Plataforma completa para o armazenamento, controle e exportação de notas fiscais de construção e reforma.
