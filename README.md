@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.postimg.cc/4dH1FRpb/Logo-Nota-Gest-Login.png" alt="Logo do NotaGest" width="150"/>
+      <img src="https://i.postimg.cc/4dH1FRpb/Logo-Nota-Gest-Login.png" alt="Logo do NotaGest" width="250"/>
     </td>
     <td>
-      <h1>NotaGest — Sistema de Gerenciamento de Notas Fiscais</h1>
+      <h1>Sistema de Gerenciamento de Notas Fiscais</h1>
       <p>Plataforma completa para o armazenamento, controle e exportação de notas fiscais de construção e reforma.</p>
     </td>
   </tr>
