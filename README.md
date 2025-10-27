@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="https://i.postimg.cc/4dH1FRpb/Logo-Nota-Gest-Login.png" alt="Logo do NotaGest" width="400"/>
-</p>
-
-<h1 align="center">NotaGest — Sistema de Gerenciamento de Notas Fiscais</h1>
-
-<p align="center">
-  Plataforma completa para o armazenamento, controle e exportação de notas fiscais de construção e reforma.
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://i.postimg.cc/4dH1FRpb/Logo-Nota-Gest-Login.png" alt="Logo do NotaGest" width="150"/>
+    </td>
+    <td>
+      <h1>NotaGest — Sistema de Gerenciamento de Notas Fiscais</h1>
+      <p>Plataforma completa para o armazenamento, controle e exportação de notas fiscais de construção e reforma.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-15.2.4-4CAF50?style=flat&logo=next.js" alt="Next.js Badge"/>
