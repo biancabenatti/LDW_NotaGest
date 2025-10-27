@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NotaGest-TypeScript/assets/logo-notagest.png" alt="NotaGest Logo" width="180"/>
+  <img src="https://raw.githubusercontent.com/AnaLauraMS/NotaGest/main/NotaGestTypeScript/assets/1.png" alt="NotaGest Logo" width="180"/>
 </p>
 
 <h1 align="center">NotaGest — Sistema de Gerenciamento de Notas Fiscais</h1>
@@ -28,10 +28,15 @@
 ---
 ## 🏗️ Sobre
 
-O **NotaGest** é um sistema voltado ao **gerenciamento digital de notas fiscais relacionadas à construção e reforma de imóveis**.  
-A plataforma permite o **cadastro de imóveis**, o **envio de imagens das notas fiscais**, **geração de relatórios em PDF** e **exportação de dados em Excel**, visando **reduzir o uso de papel** e **facilitar a regularização de obras** junto a órgãos públicos e declarações fiscais.
+O **NotaGest** é um sistema inovador voltado ao **gerenciamento digital de notas fiscais relacionadas à construção e reforma de imóveis**, oferecendo uma plataforma completa que permite a **organização, controle e consulta rápida de documentos fiscais** de maneira prática.  
 
-> 💡 O projeto foi desenvolvido no curso de **Desenvolvimento de Software Multiplataforma (DSM)** da **FATEC Votorantim**, integrando conceitos de front-end, back-end e banco de dados.
+A plataforma possibilita aos usuários o **cadastro detalhado de imóveis**, o **envio e armazenamento de imagens das notas fiscais**, a **geração de relatórios em PDF** e a **exportação de dados em Excel**, garantindo que toda a documentação esteja sempre organizada e acessível. Com isso, o sistema **reduz significativamente o uso de papel**, promovendo uma gestão mais sustentável e eficiente.  
+
+Além disso, o NotaGest foi desenvolvido pensando em diferentes perfis de usuários: desde **proprietários e administradores de imóveis**, até **empresas de construção e profissionais autônomos**, proporcionando uma **interface intuitiva**, **navegação simplificada** e funcionalidades voltadas à **facilidade de uso e agilidade na tomada de decisões**.  
+
+O sistema também contribui para a **regularização de obras e reformas junto a órgãos públicos**, oferecendo suporte para **declarações fiscais**, **auditorias internas** e **consultas rápidas sobre despesas e investimentos em cada imóvel**.  
+
+> 💡 O projeto foi desenvolvido no curso de **Desenvolvimento de Software Multiplataforma (DSM)** da **FATEC Votorantim**, integrando conceitos de front-end, back-end e banco de dados. A ideia é criar uma solução prática e moderna que atenda às necessidades reais do mercado de construção civil, trazendo **eficiência, organização e confiabilidade** para o gerenciamento de documentos fiscais.
 
 
 
