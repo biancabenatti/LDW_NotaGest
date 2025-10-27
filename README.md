@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/Mc3tRzBM/logo-notagest.png" alt="Logo do NotaGest" width="400"/>
+  <img src="https://postimg.cc/BtBpc5HY" alt="Logo do NotaGest" width="400"/>
 </p>
 
 
