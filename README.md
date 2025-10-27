@@ -1,7 +1,7 @@
 <table align="center" border="0" style="border:0;">
   <tr>
     <td>
-      <img src="https://i.postimg.cc/NGWntpMc/Logo-Horizontal.png" alt="Logo do NotaGest" width="250"/>
+      <img src="https://i.postimg.cc/NGWntpMc/Logo-Horizontal.png" alt="Logo do NotaGest" width="200"/>
     </td>
     <td>
       <h1>Sistema de Gerenciamento de Notas Fiscais</h1>
