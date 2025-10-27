@@ -77,7 +77,7 @@ O sistema foi estruturado em duas principais camadas — **frontend** e **backen
 O projeto está dividido em **Frontend** e **Backend**, que podem ser acessados pelos links abaixo:  
 
 - Frontend: [Acesse aqui](https://nota-gest-frontend.vercel.app/)  
-- Backend: [Acesse aqui](COLE_AQUI_O_LINK_DO_BACKEND)  
+- Backend: [Acesse aqui](https://notagest-0o2r.onrender.com/)  
 
 ## 🔹 Autores
 
