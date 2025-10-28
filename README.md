@@ -36,7 +36,6 @@ O sistema também contribui para a **regularização de obras e reformas junto a
 
 
 
-
 ## ⚙️ Arquitetura do Projeto
 
 O sistema foi estruturado em duas principais camadas — **frontend** e **backend** — que se comunicam por meio de uma **API RESTful**.
@@ -46,7 +45,11 @@ O sistema foi estruturado em duas principais camadas — **frontend** e **backen
 | **Frontend (NotaGest-TypeScript)** | Interface web onde o usuário interage, faz login, upload e gera relatórios. | Next.js, React, TypeScript, Tailwind CSS |
 | **Backend (NotaGest-Express)** | API responsável pela autenticação, persistência de dados e upload de arquivos. | Node.js, Express, MongoDB, Multer, JWT |
 
+## 📘 Documentação do Projeto
 
+<p align="center">
+  <img src="https://i.postimg.cc/R0hGcxDF/Diagrama-de-caso-de-uso.png" alt="Diagrama de Caso de Uso do NotaGest" width="600"/>
+</p>
 
 ## 💡 Funcionalidades
 
@@ -66,6 +69,15 @@ O sistema foi estruturado em duas principais camadas — **frontend** e **backen
 - Upload de arquivos com **Multer**
 - Documentação de rotas com **Swagger UI**
 
+## 📊 Entregas de Sprints  
+
+| Sprint | Período | Principais Entregas / Incrementos |
+|:-------|:---------|:----------------------------------|
+| **Sprint 1** | dd/mm - dd/mm | Estrutura inicial do projeto, criação de rotas e layout base |
+| **Sprint 2** | dd/mm - dd/mm | Implementação do upload de arquivos e autenticação |
+| **Sprint 3** | dd/mm - dd/mm | Dashboard, relatórios e integração com banco de dados |
+| **Sprint 4** | dd/mm - dd/mm | Ajustes finais, testes e deploy |
+ 
 
 ## 🧩 Tecnologias Utilizadas
 
@@ -74,7 +86,6 @@ O sistema foi estruturado em duas principais camadas — **frontend** e **backen
 | **Frontend** | [Next.js](https://nextjs.org) • [React](https://react.dev) • [TypeScript](https://www.typescriptlang.org) • [Tailwind CSS](https://tailwindcss.com) • [AOS](https://michalsnik.github.io/aos/) • [Recharts](https://recharts.org) • [jsPDF](https://github.com/parallax/jsPDF) |
 | **Backend** | [Express](https://expressjs.com) • [Node.js](https://nodejs.org) • [MongoDB](https://www.mongodb.com) • [MySQL2](https://www.npmjs.com/package/mysql2) • [JWT](https://jwt.io) • [bcryptjs](https://www.npmjs.com/package/bcryptjs) • [dotenv](https://www.npmjs.com/package/dotenv) • [Multer](https://www.npmjs.com/package/multer) |
 | **Documentação** | [Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express) • [Swagger JSDoc](https://www.npmjs.com/package/swagger-jsdoc) |
-
 
 
 ## 🌐 Acesso ao Projeto
